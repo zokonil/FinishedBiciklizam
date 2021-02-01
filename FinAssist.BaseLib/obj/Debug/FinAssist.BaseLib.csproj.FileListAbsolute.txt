@@ -1,0 +1,57 @@
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 07\FinAssist.BaseLib\bin\Debug\FinAssist.BaseLib.dll
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 07\FinAssist.BaseLib\bin\Debug\FinAssist.BaseLib.pdb
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 07\FinAssist.BaseLib\obj\Debug\FinAssist.BaseLib.csprojResolveAssemblyReference.cache
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 07\FinAssist.BaseLib\obj\Debug\FinAssist.BaseLib.dll
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 07\FinAssist.BaseLib\obj\Debug\FinAssist.BaseLib.pdb
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 07\FinAssist.BaseLib\bin\Debug\FinAssist.Model.dll
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 07\FinAssist.BaseLib\bin\Debug\FinAssist.Model.pdb
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.BaseLib\bin\Debug\FinAssist.BaseLib.dll
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.BaseLib\bin\Debug\FinAssist.BaseLib.pdb
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.BaseLib\bin\Debug\FinAssist.Model.dll
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.BaseLib\bin\Debug\FinAssist.Model.pdb
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.BaseLib\obj\Debug\FinAssist.BaseLib.csprojResolveAssemblyReference.cache
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.BaseLib\obj\Debug\FinAssist.BaseLib.dll
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.BaseLib\obj\Debug\FinAssist.BaseLib.pdb
+C:\Users\zvonimir.vanjak\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.BaseLib\bin\Debug\FinAssist.BaseLib.dll
+C:\Users\zvonimir.vanjak\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.BaseLib\bin\Debug\FinAssist.BaseLib.pdb
+C:\Users\zvonimir.vanjak\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.BaseLib\bin\Debug\FinAssist.Model.dll
+C:\Users\zvonimir.vanjak\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.BaseLib\bin\Debug\FinAssist.Model.pdb
+C:\Users\zvonimir.vanjak\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.BaseLib\obj\Debug\FinAssist.BaseLib.csprojResolveAssemblyReference.cache
+C:\Users\zvonimir.vanjak\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.BaseLib\obj\Debug\FinAssist.BaseLib.csproj.CoreCompileInputs.cache
+C:\Users\zvonimir.vanjak\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.BaseLib\obj\Debug\FinAssist.BaseLib.dll
+C:\Users\zvonimir.vanjak\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.BaseLib\obj\Debug\FinAssist.BaseLib.pdb
+C:\Storage\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.BaseLib\bin\Debug\FinAssist.BaseLib.dll
+C:\Storage\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.BaseLib\bin\Debug\FinAssist.BaseLib.pdb
+C:\Storage\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.BaseLib\bin\Debug\FinAssist.Model.dll
+C:\Storage\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.BaseLib\bin\Debug\FinAssist.Model.pdb
+C:\Storage\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.BaseLib\obj\Debug\FinAssist.BaseLib.csprojResolveAssemblyReference.cache
+C:\Storage\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.BaseLib\obj\Debug\FinAssist.BaseLib.dll
+C:\Storage\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.BaseLib\obj\Debug\FinAssist.BaseLib.pdb
+C:\Storage\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.BaseLib\obj\Debug\FinAssist.BaseLib.csproj.CoreCompileInputs.cache
+E:\Projects\ObjektnoOblikovanje\OO2\FinAssist.BaseLib\bin\Debug\FinAssist.BaseLib.dll
+E:\Projects\ObjektnoOblikovanje\OO2\FinAssist.BaseLib\bin\Debug\FinAssist.BaseLib.pdb
+E:\Projects\ObjektnoOblikovanje\OO2\FinAssist.BaseLib\bin\Debug\FinAssist.Model.dll
+E:\Projects\ObjektnoOblikovanje\OO2\FinAssist.BaseLib\bin\Debug\FinAssist.Model.pdb
+E:\Projects\ObjektnoOblikovanje\OO2\FinAssist.BaseLib\obj\Debug\FinAssist.BaseLib.csprojAssemblyReference.cache
+E:\Projects\ObjektnoOblikovanje\OO2\FinAssist.BaseLib\obj\Debug\FinAssist.BaseLib.csproj.CoreCompileInputs.cache
+E:\Projects\ObjektnoOblikovanje\OO2\FinAssist.BaseLib\obj\Debug\FinAssist.BaseLib.csproj.CopyComplete
+E:\Projects\ObjektnoOblikovanje\OO2\FinAssist.BaseLib\obj\Debug\FinAssist.BaseLib.dll
+E:\Projects\ObjektnoOblikovanje\OO2\FinAssist.BaseLib\obj\Debug\FinAssist.BaseLib.pdb
+C:\Users\Zverkan\Documents\OO2\FinAssist.BaseLib\bin\Debug\FinAssist.BaseLib.dll
+C:\Users\Zverkan\Documents\OO2\FinAssist.BaseLib\bin\Debug\FinAssist.BaseLib.pdb
+C:\Users\Zverkan\Documents\OO2\FinAssist.BaseLib\bin\Debug\FinAssist.Model.dll
+C:\Users\Zverkan\Documents\OO2\FinAssist.BaseLib\bin\Debug\FinAssist.Model.pdb
+C:\Users\Zverkan\Documents\OO2\FinAssist.BaseLib\obj\Debug\FinAssist.BaseLib.csprojAssemblyReference.cache
+C:\Users\Zverkan\Documents\OO2\FinAssist.BaseLib\obj\Debug\FinAssist.BaseLib.csproj.CoreCompileInputs.cache
+C:\Users\Zverkan\Documents\OO2\FinAssist.BaseLib\obj\Debug\FinAssist.BaseLib.csproj.CopyComplete
+C:\Users\Zverkan\Documents\OO2\FinAssist.BaseLib\obj\Debug\FinAssist.BaseLib.dll
+C:\Users\Zverkan\Documents\OO2\FinAssist.BaseLib\obj\Debug\FinAssist.BaseLib.pdb
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.BaseLib\bin\Debug\FinAssist.BaseLib.dll
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.BaseLib\bin\Debug\FinAssist.BaseLib.pdb
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.BaseLib\bin\Debug\FinAssist.Model.dll
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.BaseLib\bin\Debug\FinAssist.Model.pdb
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.BaseLib\obj\Debug\FinAssist.BaseLib.csprojAssemblyReference.cache
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.BaseLib\obj\Debug\FinAssist.BaseLib.csproj.CoreCompileInputs.cache
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.BaseLib\obj\Debug\FinAssist.BaseLib.csproj.CopyComplete
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.BaseLib\obj\Debug\FinAssist.BaseLib.dll
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.BaseLib\obj\Debug\FinAssist.BaseLib.pdb

@@ -1,0 +1,71 @@
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 07\FinAssist.Controllers\bin\Debug\FinAssist.Controllers.dll
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 07\FinAssist.Controllers\bin\Debug\FinAssist.Controllers.pdb
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 07\FinAssist.Controllers\obj\Debug\FinAssist.Controllers.csprojResolveAssemblyReference.cache
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 07\FinAssist.Controllers\obj\Debug\FinAssist.Controllers.dll
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 07\FinAssist.Controllers\obj\Debug\FinAssist.Controllers.pdb
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 07\FinAssist.Controllers\bin\Debug\FinAssist.BaseLib.dll
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 07\FinAssist.Controllers\bin\Debug\FinAssist.BaseLib.pdb
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 07\FinAssist.Controllers\bin\Debug\FinAssist.Model.dll
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 07\FinAssist.Controllers\bin\Debug\FinAssist.Model.pdb
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.Controllers\bin\Debug\FinAssist.Controllers.dll
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.Controllers\bin\Debug\FinAssist.Controllers.pdb
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.Controllers\bin\Debug\FinAssist.BaseLib.dll
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.Controllers\bin\Debug\FinAssist.Model.dll
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.Controllers\bin\Debug\FinAssist.BaseLib.pdb
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.Controllers\bin\Debug\FinAssist.Model.pdb
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.Controllers\obj\Debug\FinAssist.Controllers.csprojResolveAssemblyReference.cache
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.Controllers\obj\Debug\FinAssist.Controllers.dll
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.Controllers\obj\Debug\FinAssist.Controllers.pdb
+C:\Users\zvonimir.vanjak\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.Controllers\bin\Debug\FinAssist.Controllers.dll
+C:\Users\zvonimir.vanjak\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.Controllers\bin\Debug\FinAssist.Controllers.pdb
+C:\Users\zvonimir.vanjak\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.Controllers\bin\Debug\FinAssist.BaseLib.dll
+C:\Users\zvonimir.vanjak\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.Controllers\bin\Debug\FinAssist.Model.dll
+C:\Users\zvonimir.vanjak\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.Controllers\bin\Debug\FinAssist.BaseLib.pdb
+C:\Users\zvonimir.vanjak\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.Controllers\bin\Debug\FinAssist.Model.pdb
+C:\Users\zvonimir.vanjak\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.Controllers\obj\Debug\FinAssist.Controllers.csprojResolveAssemblyReference.cache
+C:\Users\zvonimir.vanjak\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.Controllers\obj\Debug\FinAssist.Controllers.csproj.CoreCompileInputs.cache
+C:\Users\zvonimir.vanjak\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.Controllers\obj\Debug\FinAssist.Controllers.dll
+C:\Users\zvonimir.vanjak\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.Controllers\obj\Debug\FinAssist.Controllers.pdb
+C:\Storage\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.Controllers\bin\Debug\FinAssist.Controllers.dll
+C:\Storage\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.Controllers\bin\Debug\FinAssist.Controllers.pdb
+C:\Storage\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.Controllers\bin\Debug\FinAssist.BaseLib.dll
+C:\Storage\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.Controllers\bin\Debug\FinAssist.Model.dll
+C:\Storage\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.Controllers\bin\Debug\FinAssist.BaseLib.pdb
+C:\Storage\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.Controllers\bin\Debug\FinAssist.Model.pdb
+C:\Storage\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.Controllers\obj\Debug\FinAssist.Controllers.csprojResolveAssemblyReference.cache
+C:\Storage\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.Controllers\obj\Debug\FinAssist.Controllers.dll
+C:\Storage\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.Controllers\obj\Debug\FinAssist.Controllers.pdb
+C:\Storage\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.Controllers\obj\Debug\FinAssist.Controllers.csproj.CoreCompileInputs.cache
+E:\Projects\ObjektnoOblikovanje\OO2\FinAssist.Controllers\bin\Debug\FinAssist.Controllers.dll
+E:\Projects\ObjektnoOblikovanje\OO2\FinAssist.Controllers\bin\Debug\FinAssist.Controllers.pdb
+E:\Projects\ObjektnoOblikovanje\OO2\FinAssist.Controllers\bin\Debug\FinAssist.BaseLib.dll
+E:\Projects\ObjektnoOblikovanje\OO2\FinAssist.Controllers\bin\Debug\FinAssist.Model.dll
+E:\Projects\ObjektnoOblikovanje\OO2\FinAssist.Controllers\bin\Debug\FinAssist.BaseLib.pdb
+E:\Projects\ObjektnoOblikovanje\OO2\FinAssist.Controllers\bin\Debug\FinAssist.Model.pdb
+E:\Projects\ObjektnoOblikovanje\OO2\FinAssist.Controllers\obj\Debug\FinAssist.Controllers.csprojAssemblyReference.cache
+E:\Projects\ObjektnoOblikovanje\OO2\FinAssist.Controllers\obj\Debug\FinAssist.Controllers.csproj.CoreCompileInputs.cache
+E:\Projects\ObjektnoOblikovanje\OO2\FinAssist.Controllers\obj\Debug\FinAssist.Controllers.csproj.CopyComplete
+E:\Projects\ObjektnoOblikovanje\OO2\FinAssist.Controllers\obj\Debug\FinAssist.Controllers.dll
+E:\Projects\ObjektnoOblikovanje\OO2\FinAssist.Controllers\obj\Debug\FinAssist.Controllers.pdb
+C:\Users\Zverkan\Documents\OO2\FinAssist.Controllers\bin\Debug\FinAssist.Controllers.dll
+C:\Users\Zverkan\Documents\OO2\FinAssist.Controllers\bin\Debug\FinAssist.Controllers.pdb
+C:\Users\Zverkan\Documents\OO2\FinAssist.Controllers\bin\Debug\FinAssist.BaseLib.dll
+C:\Users\Zverkan\Documents\OO2\FinAssist.Controllers\bin\Debug\FinAssist.Model.dll
+C:\Users\Zverkan\Documents\OO2\FinAssist.Controllers\bin\Debug\FinAssist.BaseLib.pdb
+C:\Users\Zverkan\Documents\OO2\FinAssist.Controllers\bin\Debug\FinAssist.Model.pdb
+C:\Users\Zverkan\Documents\OO2\FinAssist.Controllers\obj\Debug\FinAssist.Controllers.csprojAssemblyReference.cache
+C:\Users\Zverkan\Documents\OO2\FinAssist.Controllers\obj\Debug\FinAssist.Controllers.csproj.CoreCompileInputs.cache
+C:\Users\Zverkan\Documents\OO2\FinAssist.Controllers\obj\Debug\FinAssist.Controllers.csproj.CopyComplete
+C:\Users\Zverkan\Documents\OO2\FinAssist.Controllers\obj\Debug\FinAssist.Controllers.dll
+C:\Users\Zverkan\Documents\OO2\FinAssist.Controllers\obj\Debug\FinAssist.Controllers.pdb
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.Controllers\bin\Debug\FinAssist.Controllers.dll
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.Controllers\bin\Debug\FinAssist.Controllers.pdb
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.Controllers\bin\Debug\FinAssist.BaseLib.dll
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.Controllers\bin\Debug\FinAssist.Model.dll
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.Controllers\bin\Debug\FinAssist.BaseLib.pdb
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.Controllers\bin\Debug\FinAssist.Model.pdb
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.Controllers\obj\Debug\FinAssist.Controllers.csprojAssemblyReference.cache
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.Controllers\obj\Debug\FinAssist.Controllers.csproj.CoreCompileInputs.cache
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.Controllers\obj\Debug\FinAssist.Controllers.csproj.CopyComplete
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.Controllers\obj\Debug\FinAssist.Controllers.dll
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.Controllers\obj\Debug\FinAssist.Controllers.pdb

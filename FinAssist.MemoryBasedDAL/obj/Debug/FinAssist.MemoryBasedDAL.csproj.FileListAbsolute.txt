@@ -1,0 +1,71 @@
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 07\FinAssist.MemoryBasedDAL\obj\Debug\FinAssist.MemoryBasedDAL.csprojResolveAssemblyReference.cache
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 07\FinAssist.MemoryBasedDAL\bin\Debug\FinAssist.MemoryBasedDAL.dll
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 07\FinAssist.MemoryBasedDAL\bin\Debug\FinAssist.MemoryBasedDAL.pdb
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 07\FinAssist.MemoryBasedDAL\bin\Debug\FinAssist.Model.dll
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 07\FinAssist.MemoryBasedDAL\bin\Debug\FinAssist.Model.pdb
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 07\FinAssist.MemoryBasedDAL\obj\Debug\FinAssist.MemoryBasedDAL.dll
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 07\FinAssist.MemoryBasedDAL\obj\Debug\FinAssist.MemoryBasedDAL.pdb
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 07\FinAssist.MemoryBasedDAL\bin\Debug\FinAssist.BaseLib.dll
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 07\FinAssist.MemoryBasedDAL\bin\Debug\FinAssist.BaseLib.pdb
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.MemoryBasedDAL\bin\Debug\FinAssist.MemoryBasedDAL.dll
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.MemoryBasedDAL\bin\Debug\FinAssist.MemoryBasedDAL.pdb
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.MemoryBasedDAL\bin\Debug\FinAssist.BaseLib.dll
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.MemoryBasedDAL\bin\Debug\FinAssist.Model.dll
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.MemoryBasedDAL\bin\Debug\FinAssist.BaseLib.pdb
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.MemoryBasedDAL\bin\Debug\FinAssist.Model.pdb
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.MemoryBasedDAL\obj\Debug\FinAssist.MemoryBasedDAL.csprojResolveAssemblyReference.cache
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.MemoryBasedDAL\obj\Debug\FinAssist.MemoryBasedDAL.dll
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.MemoryBasedDAL\obj\Debug\FinAssist.MemoryBasedDAL.pdb
+C:\Users\zvonimir.vanjak\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.MemoryBasedDAL\bin\Debug\FinAssist.MemoryBasedDAL.dll
+C:\Users\zvonimir.vanjak\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.MemoryBasedDAL\bin\Debug\FinAssist.MemoryBasedDAL.pdb
+C:\Users\zvonimir.vanjak\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.MemoryBasedDAL\bin\Debug\FinAssist.BaseLib.dll
+C:\Users\zvonimir.vanjak\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.MemoryBasedDAL\bin\Debug\FinAssist.Model.dll
+C:\Users\zvonimir.vanjak\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.MemoryBasedDAL\bin\Debug\FinAssist.BaseLib.pdb
+C:\Users\zvonimir.vanjak\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.MemoryBasedDAL\bin\Debug\FinAssist.Model.pdb
+C:\Users\zvonimir.vanjak\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.MemoryBasedDAL\obj\Debug\FinAssist.MemoryBasedDAL.csprojResolveAssemblyReference.cache
+C:\Users\zvonimir.vanjak\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.MemoryBasedDAL\obj\Debug\FinAssist.MemoryBasedDAL.csproj.CoreCompileInputs.cache
+C:\Users\zvonimir.vanjak\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.MemoryBasedDAL\obj\Debug\FinAssist.MemoryBasedDAL.dll
+C:\Users\zvonimir.vanjak\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.MemoryBasedDAL\obj\Debug\FinAssist.MemoryBasedDAL.pdb
+C:\Storage\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.MemoryBasedDAL\bin\Debug\FinAssist.MemoryBasedDAL.dll
+C:\Storage\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.MemoryBasedDAL\bin\Debug\FinAssist.MemoryBasedDAL.pdb
+C:\Storage\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.MemoryBasedDAL\bin\Debug\FinAssist.BaseLib.dll
+C:\Storage\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.MemoryBasedDAL\bin\Debug\FinAssist.Model.dll
+C:\Storage\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.MemoryBasedDAL\bin\Debug\FinAssist.BaseLib.pdb
+C:\Storage\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.MemoryBasedDAL\bin\Debug\FinAssist.Model.pdb
+C:\Storage\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.MemoryBasedDAL\obj\Debug\FinAssist.MemoryBasedDAL.csprojResolveAssemblyReference.cache
+C:\Storage\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.MemoryBasedDAL\obj\Debug\FinAssist.MemoryBasedDAL.dll
+C:\Storage\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.MemoryBasedDAL\obj\Debug\FinAssist.MemoryBasedDAL.pdb
+C:\Storage\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.MemoryBasedDAL\obj\Debug\FinAssist.MemoryBasedDAL.csproj.CoreCompileInputs.cache
+E:\Projects\ObjektnoOblikovanje\OO2\FinAssist.MemoryBasedDAL\bin\Debug\FinAssist.MemoryBasedDAL.dll
+E:\Projects\ObjektnoOblikovanje\OO2\FinAssist.MemoryBasedDAL\bin\Debug\FinAssist.MemoryBasedDAL.pdb
+E:\Projects\ObjektnoOblikovanje\OO2\FinAssist.MemoryBasedDAL\bin\Debug\FinAssist.BaseLib.dll
+E:\Projects\ObjektnoOblikovanje\OO2\FinAssist.MemoryBasedDAL\bin\Debug\FinAssist.Model.dll
+E:\Projects\ObjektnoOblikovanje\OO2\FinAssist.MemoryBasedDAL\bin\Debug\FinAssist.BaseLib.pdb
+E:\Projects\ObjektnoOblikovanje\OO2\FinAssist.MemoryBasedDAL\bin\Debug\FinAssist.Model.pdb
+E:\Projects\ObjektnoOblikovanje\OO2\FinAssist.MemoryBasedDAL\obj\Debug\FinAssist.MemoryBasedDAL.csprojAssemblyReference.cache
+E:\Projects\ObjektnoOblikovanje\OO2\FinAssist.MemoryBasedDAL\obj\Debug\FinAssist.MemoryBasedDAL.csproj.CoreCompileInputs.cache
+E:\Projects\ObjektnoOblikovanje\OO2\FinAssist.MemoryBasedDAL\obj\Debug\FinAssist.MemoryBasedDAL.csproj.CopyComplete
+E:\Projects\ObjektnoOblikovanje\OO2\FinAssist.MemoryBasedDAL\obj\Debug\FinAssist.MemoryBasedDAL.dll
+E:\Projects\ObjektnoOblikovanje\OO2\FinAssist.MemoryBasedDAL\obj\Debug\FinAssist.MemoryBasedDAL.pdb
+C:\Users\Zverkan\Documents\OO2\FinAssist.MemoryBasedDAL\bin\Debug\FinAssist.MemoryBasedDAL.dll
+C:\Users\Zverkan\Documents\OO2\FinAssist.MemoryBasedDAL\bin\Debug\FinAssist.MemoryBasedDAL.pdb
+C:\Users\Zverkan\Documents\OO2\FinAssist.MemoryBasedDAL\bin\Debug\FinAssist.BaseLib.dll
+C:\Users\Zverkan\Documents\OO2\FinAssist.MemoryBasedDAL\bin\Debug\FinAssist.Model.dll
+C:\Users\Zverkan\Documents\OO2\FinAssist.MemoryBasedDAL\bin\Debug\FinAssist.BaseLib.pdb
+C:\Users\Zverkan\Documents\OO2\FinAssist.MemoryBasedDAL\bin\Debug\FinAssist.Model.pdb
+C:\Users\Zverkan\Documents\OO2\FinAssist.MemoryBasedDAL\obj\Debug\FinAssist.MemoryBasedDAL.csprojAssemblyReference.cache
+C:\Users\Zverkan\Documents\OO2\FinAssist.MemoryBasedDAL\obj\Debug\FinAssist.MemoryBasedDAL.csproj.CoreCompileInputs.cache
+C:\Users\Zverkan\Documents\OO2\FinAssist.MemoryBasedDAL\obj\Debug\FinAssist.MemoryBasedDAL.csproj.CopyComplete
+C:\Users\Zverkan\Documents\OO2\FinAssist.MemoryBasedDAL\obj\Debug\FinAssist.MemoryBasedDAL.dll
+C:\Users\Zverkan\Documents\OO2\FinAssist.MemoryBasedDAL\obj\Debug\FinAssist.MemoryBasedDAL.pdb
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.MemoryBasedDAL\bin\Debug\FinAssist.MemoryBasedDAL.dll
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.MemoryBasedDAL\bin\Debug\FinAssist.MemoryBasedDAL.pdb
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.MemoryBasedDAL\bin\Debug\FinAssist.BaseLib.dll
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.MemoryBasedDAL\bin\Debug\FinAssist.Model.dll
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.MemoryBasedDAL\bin\Debug\FinAssist.BaseLib.pdb
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.MemoryBasedDAL\bin\Debug\FinAssist.Model.pdb
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.MemoryBasedDAL\obj\Debug\FinAssist.MemoryBasedDAL.csprojAssemblyReference.cache
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.MemoryBasedDAL\obj\Debug\FinAssist.MemoryBasedDAL.csproj.CoreCompileInputs.cache
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.MemoryBasedDAL\obj\Debug\FinAssist.MemoryBasedDAL.csproj.CopyComplete
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.MemoryBasedDAL\obj\Debug\FinAssist.MemoryBasedDAL.dll
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.MemoryBasedDAL\obj\Debug\FinAssist.MemoryBasedDAL.pdb

@@ -1,0 +1,6 @@
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.Model\bin\Debug\Biciklizam.Model.dll
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.Model\bin\Debug\Biciklizam.Model.pdb
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.Model\obj\Debug\Biciklizam.Model.csprojAssemblyReference.cache
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.Model\obj\Debug\Biciklizam.Model.csproj.CoreCompileInputs.cache
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.Model\obj\Debug\Biciklizam.Model.dll
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.Model\obj\Debug\Biciklizam.Model.pdb

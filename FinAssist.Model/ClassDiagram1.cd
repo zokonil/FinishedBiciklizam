@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Biciklizam.Model.Bicikl">
+    <Position X="3.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAACABAAAAAACAgAAAAAAAAAAAAAAgAAEAAAAA=</HashCode>
+      <FileName>Bicikl.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Specs" />
+      <Property Name="Tip" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="_listOprema" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Biciklizam.Model.Biciklist">
+    <Position X="8.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAQAAABAAAAAAAAAAAAAAAABAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Biciklist.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Bicikl" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Biciklizam.Model.BiciklOprema">
+    <Position X="1" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BiciklOprema.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biciklizam.Model.BiciklSpec">
+    <Position X="1" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAAQEAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BiciklSpec.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="TipVelicine" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Biciklizam.Model.CestovnaUtrka">
+    <Position X="17" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CestovnaUtrka.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biciklizam.Model.EntityBase&lt;TId&gt;">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAgAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>EntityBase.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Biciklizam.Model.Kriterij">
+    <Position X="12.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Kriterij.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biciklizam.Model.Kronometar">
+    <Position X="14.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Kronometar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biciklizam.Model.Rezultat">
+    <Position X="11.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAFAEA=</HashCode>
+      <FileName>Rezultat.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Biciklist" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Biciklizam.Model.Statistike">
+    <Position X="6" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQEAAABAAAAgAAAAAAAAAAAAIAAAAAACQAAAAAAAAAA=</HashCode>
+      <FileName>Statistike.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biciklizam.Model.Utrka">
+    <Position X="14.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAFAAAAAACCIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Utrka.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="_listRezultat" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Biciklizam.Model.Factories.UtrkaFactory">
+    <Position X="10" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factories\UtrkaFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Biciklizam.Model.Repositories.IBiciklistRepository">
+    <Position X="8.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAACECCAAAACABAAAAAEAAAAIAAAEBAMgQgAAA=</HashCode>
+      <FileName>Repositories\IBiciklistRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Biciklizam.Model.Repositories.IUtrkaRepository">
+    <Position X="10" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAABAAAQAAABCAAAAAAAKAAAAAAA=</HashCode>
+      <FileName>Repositories\IUtrkaRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Biciklizam.Model.BiciklTip">
+    <Position X="6" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BiciklType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Biciklizam.Model.SizeType">
+    <Position X="4" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACACAAAAAA=</HashCode>
+      <FileName>SizeType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

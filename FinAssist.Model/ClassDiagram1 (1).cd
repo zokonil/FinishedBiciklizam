@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FinAssist.Model.Account">
+    <Position X="4.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACIAAAAAAAAAAAAABAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Account.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinAssist.Model.Transaction">
+    <Position X="11.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAIAABABCAgAAAAAAAAABEgAAAAAA=</HashCode>
+      <FileName>Transaction.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_fromAcc" />
+      <Field Name="_toAcc" />
+      <Field Name="_transDescr" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="FinAssist.Model.AccountWithBalance">
+    <Position X="2.75" Y="7.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAEAAAAAA=</HashCode>
+      <FileName>AccountWithBalance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinAssist.Model.CashAccount">
+    <Position X="0.5" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CashAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinAssist.Model.CurrentAccount">
+    <Position X="2.75" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CurrentAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinAssist.Model.CreditCardAccount">
+    <Position X="5" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CreditCardAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinAssist.Model.IncomeSourceAccount">
+    <Position X="5.25" Y="7.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IncomeSourceAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinAssist.Model.ExpenditureSinkAccount">
+    <Position X="7.75" Y="7.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExpenditureSinkAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinAssist.Model.ExpenditureCategory">
+    <Position X="20.5" Y="5.25" Width="1.75" />
+    <AssociationLine Name="_parent" Type="FinAssist.Model.ExpenditureCategory" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="22.25" Y="6.25" />
+        <Point X="22.625" Y="6.25" />
+        <Point X="22.625" Y="4.875" />
+        <Point X="21.447" Y="4.875" />
+        <Point X="21.447" Y="5.25" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-0.729" Y="0.094" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAQAAQACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExpCategory.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_parent" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="FinAssist.Model.ExpenditurePlace">
+    <Position X="23" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExpPlace.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinAssist.Model.TransactionDescription">
+    <Position X="14.75" Y="4.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAEA=</HashCode>
+      <FileName>TransactionDescription.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinAssist.Model.IncomeTransDescription">
+    <Position X="11.75" Y="7.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IncomeTransDesc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinAssist.Model.TransferTransDescription">
+    <Position X="14.75" Y="7.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TransferTransDesc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinAssist.Model.AccountRepository">
+    <Position X="4.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAEEAAAAAAAAAAAAAAAAEQAABAAAAYAAAAAAARQAAA=</HashCode>
+      <FileName>Repositories\AccountRepository.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="_listAccounts" />
+    </ShowAsCollectionAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FinAssist.Model.ExpenditureTransDescription">
+    <Position X="17.5" Y="7.75" Width="2.25" />
+    <AssociationLine Name="_expCategory" Type="FinAssist.Model.ExpenditureCategory" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="19.75" Y="8.125" />
+        <Point X="21.521" Y="8.125" />
+        <Point X="21.521" Y="7.449" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="_expPlace" Type="FinAssist.Model.ExpenditurePlace" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="19.75" Y="8.437" />
+        <Point X="21.395" Y="8.437" />
+        <Point X="21.395" Y="10.25" />
+        <Point X="23" Y="10.25" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>ExpenditureTransactionDescription.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_expCategory" />
+      <Field Name="_expPlace" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="FinAssist.Model.ExpCategoryRepository">
+    <Position X="20.25" Y="0.5" Width="2" />
+    <AssociationLine Name="_listExpCat" Type="FinAssist.Model.ExpenditureCategory">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.123" Y="0.11" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repositories\ExpCategoryRepository.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="_listExpCat" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="FinAssist.Model.ExpPlaceRepository">
+    <Position X="23" Y="0.5" Width="1.75" />
+    <AssociationLine Name="_listExpPlace" Type="FinAssist.Model.ExpenditurePlace">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-1.187" Y="0.126" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAIEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Repositories\ExpPlaceRepository.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="_listExpPlace" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="FinAssist.Model.TransactionRepository">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAACAEAAAAAAAAAQAAAAAEAAAAAACAAgAAAA=</HashCode>
+      <FileName>Repositories\TransactionRepository.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="_listTrans" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="FinAssist.Model.TransactionFactory">
+    <Position X="14.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factories\TransactionFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,197 @@
+D:\Users\Zvone\FER\Nastava\OOD\Case study - FinAssist\FinAssistCaseStudy\FinAssist.PresentationLayer\bin\Debug\FinAssist.PresentationLayer.dll
+D:\Users\Zvone\FER\Nastava\OOD\Case study - FinAssist\FinAssistCaseStudy\FinAssist.PresentationLayer\bin\Debug\FinAssist.PresentationLayer.pdb
+D:\Users\Zvone\FER\Nastava\OOD\Case study - FinAssist\FinAssistCaseStudy\FinAssist.PresentationLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\Zvone\FER\Nastava\OOD\Case study - FinAssist\FinAssistCaseStudy\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmMainWindow.resources
+D:\Users\Zvone\FER\Nastava\OOD\Case study - FinAssist\FinAssistCaseStudy\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.csproj.GenerateResource.Cache
+D:\Users\Zvone\FER\Nastava\OOD\Case study - FinAssist\FinAssistCaseStudy\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.dll
+D:\Users\Zvone\FER\Nastava\OOD\Case study - FinAssist\FinAssistCaseStudy\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.pdb
+D:\Users\Zvone\FER\Nastava\OOD\Case study - FinAssist\FinAssistCaseStudy\FinAssist.PresentationLayer\bin\Debug\FinAssist.BaseInterfaces.dll
+D:\Users\Zvone\FER\Nastava\OOD\Case study - FinAssist\FinAssistCaseStudy\FinAssist.PresentationLayer\bin\Debug\FinAssist.DomainModel.dll
+D:\Users\Zvone\FER\Nastava\OOD\Case study - FinAssist\FinAssistCaseStudy\FinAssist.PresentationLayer\bin\Debug\FinAssist.BaseInterfaces.pdb
+D:\Users\Zvone\FER\Nastava\OOD\Case study - FinAssist\FinAssistCaseStudy\FinAssist.PresentationLayer\bin\Debug\FinAssist.DomainModel.pdb
+D:\Users\Zvone\FER\Nastava\OOD\Case study - FinAssist\FinAssistCaseStudy\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmViewAccounts.resources
+D:\Users\Zvone\FER\Nastava\OOD\Case study - FinAssist\FinAssistCaseStudy\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmAddAccount.resources
+D:\Users\Zvone\FER\Nastava\OOD\Case study - FinAssist\FinAssistCaseStudy\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmViewTransactions.resources
+D:\Users\Zvone\_FER\Nastava\OOD\Case study - FinAssist\FinAssistCaseStudy\FinAssist.PresentationLayer\bin\Debug\FinAssist.PresentationLayer.dll
+D:\Users\Zvone\_FER\Nastava\OOD\Case study - FinAssist\FinAssistCaseStudy\FinAssist.PresentationLayer\bin\Debug\FinAssist.PresentationLayer.pdb
+D:\Users\Zvone\_FER\Nastava\OOD\Case study - FinAssist\FinAssistCaseStudy\FinAssist.PresentationLayer\bin\Debug\FinAssist.BaseInterfaces.dll
+D:\Users\Zvone\_FER\Nastava\OOD\Case study - FinAssist\FinAssistCaseStudy\FinAssist.PresentationLayer\bin\Debug\FinAssist.DomainModel.dll
+D:\Users\Zvone\_FER\Nastava\OOD\Case study - FinAssist\FinAssistCaseStudy\FinAssist.PresentationLayer\bin\Debug\FinAssist.BaseInterfaces.pdb
+D:\Users\Zvone\_FER\Nastava\OOD\Case study - FinAssist\FinAssistCaseStudy\FinAssist.PresentationLayer\bin\Debug\FinAssist.DomainModel.pdb
+D:\Users\Zvone\_FER\Nastava\OOD\Case study - FinAssist\FinAssistCaseStudy\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.csprojResolveAssemblyReference.cache
+D:\Users\Zvone\_FER\Nastava\OOD\Case study - FinAssist\FinAssistCaseStudy\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmAddAccount.resources
+D:\Users\Zvone\_FER\Nastava\OOD\Case study - FinAssist\FinAssistCaseStudy\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmMainWindow.resources
+D:\Users\Zvone\_FER\Nastava\OOD\Case study - FinAssist\FinAssistCaseStudy\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmViewAccounts.resources
+D:\Users\Zvone\_FER\Nastava\OOD\Case study - FinAssist\FinAssistCaseStudy\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmViewTransactions.resources
+D:\Users\Zvone\_FER\Nastava\OOD\Case study - FinAssist\FinAssistCaseStudy\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.csproj.GenerateResource.Cache
+D:\Users\Zvone\_FER\Nastava\OOD\Case study - FinAssist\FinAssistCaseStudy\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.dll
+D:\Users\Zvone\_FER\Nastava\OOD\Case study - FinAssist\FinAssistCaseStudy\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.pdb
+D:\Storage\GoogleDrive\FER\Nastava\OOD\Case study - FinAssist\FinAssistCaseStudy\FinAssist.PresentationLayer\bin\Debug\FinAssist.PresentationLayer.dll
+D:\Storage\GoogleDrive\FER\Nastava\OOD\Case study - FinAssist\FinAssistCaseStudy\FinAssist.PresentationLayer\bin\Debug\FinAssist.PresentationLayer.pdb
+D:\Storage\GoogleDrive\FER\Nastava\OOD\Case study - FinAssist\FinAssistCaseStudy\FinAssist.PresentationLayer\bin\Debug\FinAssist.BaseInterfaces.dll
+D:\Storage\GoogleDrive\FER\Nastava\OOD\Case study - FinAssist\FinAssistCaseStudy\FinAssist.PresentationLayer\bin\Debug\FinAssist.DomainModel.dll
+D:\Storage\GoogleDrive\FER\Nastava\OOD\Case study - FinAssist\FinAssistCaseStudy\FinAssist.PresentationLayer\bin\Debug\FinAssist.BaseInterfaces.pdb
+D:\Storage\GoogleDrive\FER\Nastava\OOD\Case study - FinAssist\FinAssistCaseStudy\FinAssist.PresentationLayer\bin\Debug\FinAssist.DomainModel.pdb
+D:\Storage\GoogleDrive\FER\Nastava\OOD\Case study - FinAssist\FinAssistCaseStudy\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.csprojResolveAssemblyReference.cache
+D:\Storage\GoogleDrive\FER\Nastava\OOD\Case study - FinAssist\FinAssistCaseStudy\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmAddAccount.resources
+D:\Storage\GoogleDrive\FER\Nastava\OOD\Case study - FinAssist\FinAssistCaseStudy\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmMainWindow.resources
+D:\Storage\GoogleDrive\FER\Nastava\OOD\Case study - FinAssist\FinAssistCaseStudy\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmViewAccounts.resources
+D:\Storage\GoogleDrive\FER\Nastava\OOD\Case study - FinAssist\FinAssistCaseStudy\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmViewTransactions.resources
+D:\Storage\GoogleDrive\FER\Nastava\OOD\Case study - FinAssist\FinAssistCaseStudy\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.csproj.GenerateResource.Cache
+D:\Storage\GoogleDrive\FER\Nastava\OOD\Case study - FinAssist\FinAssistCaseStudy\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.dll
+D:\Storage\GoogleDrive\FER\Nastava\OOD\Case study - FinAssist\FinAssistCaseStudy\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.pdb
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 07\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.csprojResolveAssemblyReference.cache
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 07\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmAddAccount.resources
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 07\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmMainWindow.resources
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 07\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmViewAccounts.resources
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 07\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmViewTransactions.resources
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 07\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.csproj.GenerateResource.Cache
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 07\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.dll
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 07\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.pdb
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 07\FinAssist.PresentationLayer\bin\Debug\FinAssist.PresentationLayer.dll
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 07\FinAssist.PresentationLayer\bin\Debug\FinAssist.PresentationLayer.pdb
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 07\FinAssist.PresentationLayer\bin\Debug\FinAssist.BaseLib.dll
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 07\FinAssist.PresentationLayer\bin\Debug\FinAssist.Controllers.dll
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 07\FinAssist.PresentationLayer\bin\Debug\FinAssist.Model.dll
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 07\FinAssist.PresentationLayer\bin\Debug\FinAssist.BaseLib.pdb
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 07\FinAssist.PresentationLayer\bin\Debug\FinAssist.Controllers.pdb
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 07\FinAssist.PresentationLayer\bin\Debug\FinAssist.Model.pdb
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\bin\Debug\FinAssist.PresentationLayer.dll
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\bin\Debug\FinAssist.PresentationLayer.pdb
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\bin\Debug\FinAssist.BaseLib.dll
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\bin\Debug\FinAssist.Controllers.dll
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\bin\Debug\FinAssist.Model.dll
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\bin\Debug\FinAssist.BaseLib.pdb
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\bin\Debug\FinAssist.Controllers.pdb
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\bin\Debug\FinAssist.Model.pdb
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.csprojResolveAssemblyReference.cache
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmAddAccount.resources
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmBookExpenditure.resources
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmBookIncome.resources
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmBookTransfer.resources
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmMainWindow.resources
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmViewAccounts.resources
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmViewExpenditureCategories.resources
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmViewExpenditurePlaces.resources
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmViewTransactions.resources
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.csproj.GenerateResource.Cache
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.dll
+D:\Storage\GoogleDrive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.pdb
+C:\Users\zvonimir.vanjak\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\bin\Debug\FinAssist.PresentationLayer.dll
+C:\Users\zvonimir.vanjak\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\bin\Debug\FinAssist.PresentationLayer.pdb
+C:\Users\zvonimir.vanjak\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\bin\Debug\FinAssist.BaseLib.dll
+C:\Users\zvonimir.vanjak\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\bin\Debug\FinAssist.Controllers.dll
+C:\Users\zvonimir.vanjak\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\bin\Debug\FinAssist.Model.dll
+C:\Users\zvonimir.vanjak\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\bin\Debug\FinAssist.BaseLib.pdb
+C:\Users\zvonimir.vanjak\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\bin\Debug\FinAssist.Controllers.pdb
+C:\Users\zvonimir.vanjak\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\bin\Debug\FinAssist.Model.pdb
+C:\Users\zvonimir.vanjak\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.csprojResolveAssemblyReference.cache
+C:\Users\zvonimir.vanjak\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmAddAccount.resources
+C:\Users\zvonimir.vanjak\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmBookExpenditure.resources
+C:\Users\zvonimir.vanjak\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmBookIncome.resources
+C:\Users\zvonimir.vanjak\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmBookTransfer.resources
+C:\Users\zvonimir.vanjak\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmMainWindow.resources
+C:\Users\zvonimir.vanjak\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmViewAccounts.resources
+C:\Users\zvonimir.vanjak\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmViewExpenditureCategories.resources
+C:\Users\zvonimir.vanjak\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmViewExpenditurePlaces.resources
+C:\Users\zvonimir.vanjak\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmViewTransactions.resources
+C:\Users\zvonimir.vanjak\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.csproj.GenerateResource.Cache
+C:\Users\zvonimir.vanjak\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\zvonimir.vanjak\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.dll
+C:\Users\zvonimir.vanjak\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.pdb
+C:\Storage\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\bin\Debug\FinAssist.PresentationLayer.dll
+C:\Storage\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\bin\Debug\FinAssist.PresentationLayer.pdb
+C:\Storage\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\bin\Debug\FinAssist.BaseLib.dll
+C:\Storage\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\bin\Debug\FinAssist.Controllers.dll
+C:\Storage\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\bin\Debug\FinAssist.Model.dll
+C:\Storage\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\bin\Debug\FinAssist.BaseLib.pdb
+C:\Storage\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\bin\Debug\FinAssist.Controllers.pdb
+C:\Storage\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\bin\Debug\FinAssist.Model.pdb
+C:\Storage\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.csprojResolveAssemblyReference.cache
+C:\Storage\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmAddAccount.resources
+C:\Storage\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmBookExpenditure.resources
+C:\Storage\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmBookIncome.resources
+C:\Storage\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmBookTransfer.resources
+C:\Storage\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmMainWindow.resources
+C:\Storage\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmViewAccounts.resources
+C:\Storage\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmViewExpenditureCategories.resources
+C:\Storage\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmViewExpenditurePlaces.resources
+C:\Storage\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmViewTransactions.resources
+C:\Storage\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.csproj.GenerateResource.Cache
+C:\Storage\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.dll
+C:\Storage\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.pdb
+C:\Storage\Google Drive\FER\Nastava\OOD\SourceCodeOOD\Pred 08\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.csproj.CoreCompileInputs.cache
+E:\Projects\ObjektnoOblikovanje\OO2\FinAssist.PresentationLayer\bin\Debug\FinAssist.PresentationLayer.dll
+E:\Projects\ObjektnoOblikovanje\OO2\FinAssist.PresentationLayer\bin\Debug\FinAssist.PresentationLayer.pdb
+E:\Projects\ObjektnoOblikovanje\OO2\FinAssist.PresentationLayer\bin\Debug\FinAssist.BaseLib.dll
+E:\Projects\ObjektnoOblikovanje\OO2\FinAssist.PresentationLayer\bin\Debug\FinAssist.Controllers.dll
+E:\Projects\ObjektnoOblikovanje\OO2\FinAssist.PresentationLayer\bin\Debug\FinAssist.Model.dll
+E:\Projects\ObjektnoOblikovanje\OO2\FinAssist.PresentationLayer\bin\Debug\FinAssist.BaseLib.pdb
+E:\Projects\ObjektnoOblikovanje\OO2\FinAssist.PresentationLayer\bin\Debug\FinAssist.Model.pdb
+E:\Projects\ObjektnoOblikovanje\OO2\FinAssist.PresentationLayer\bin\Debug\FinAssist.Controllers.pdb
+E:\Projects\ObjektnoOblikovanje\OO2\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.csprojAssemblyReference.cache
+E:\Projects\ObjektnoOblikovanje\OO2\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmAddAccount.resources
+E:\Projects\ObjektnoOblikovanje\OO2\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmBookExpenditure.resources
+E:\Projects\ObjektnoOblikovanje\OO2\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmBookIncome.resources
+E:\Projects\ObjektnoOblikovanje\OO2\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmBookTransfer.resources
+E:\Projects\ObjektnoOblikovanje\OO2\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmMainWindow.resources
+E:\Projects\ObjektnoOblikovanje\OO2\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmViewAccounts.resources
+E:\Projects\ObjektnoOblikovanje\OO2\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmViewTransactions.resources
+E:\Projects\ObjektnoOblikovanje\OO2\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.csproj.GenerateResource.cache
+E:\Projects\ObjektnoOblikovanje\OO2\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.csproj.CoreCompileInputs.cache
+E:\Projects\ObjektnoOblikovanje\OO2\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.csproj.CopyComplete
+E:\Projects\ObjektnoOblikovanje\OO2\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.dll
+E:\Projects\ObjektnoOblikovanje\OO2\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.pdb
+C:\Users\Zverkan\Documents\OO2\FinAssist.PresentationLayer\bin\Debug\FinAssist.PresentationLayer.dll
+C:\Users\Zverkan\Documents\OO2\FinAssist.PresentationLayer\bin\Debug\FinAssist.PresentationLayer.pdb
+C:\Users\Zverkan\Documents\OO2\FinAssist.PresentationLayer\bin\Debug\FinAssist.BaseLib.dll
+C:\Users\Zverkan\Documents\OO2\FinAssist.PresentationLayer\bin\Debug\FinAssist.Controllers.dll
+C:\Users\Zverkan\Documents\OO2\FinAssist.PresentationLayer\bin\Debug\FinAssist.Model.dll
+C:\Users\Zverkan\Documents\OO2\FinAssist.PresentationLayer\bin\Debug\FinAssist.BaseLib.pdb
+C:\Users\Zverkan\Documents\OO2\FinAssist.PresentationLayer\bin\Debug\FinAssist.Controllers.pdb
+C:\Users\Zverkan\Documents\OO2\FinAssist.PresentationLayer\bin\Debug\FinAssist.Model.pdb
+C:\Users\Zverkan\Documents\OO2\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.csprojAssemblyReference.cache
+C:\Users\Zverkan\Documents\OO2\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmAddAccount.resources
+C:\Users\Zverkan\Documents\OO2\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmBookExpenditure.resources
+C:\Users\Zverkan\Documents\OO2\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmBookIncome.resources
+C:\Users\Zverkan\Documents\OO2\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmBookTransfer.resources
+C:\Users\Zverkan\Documents\OO2\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmMainWindow.resources
+C:\Users\Zverkan\Documents\OO2\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmViewAccounts.resources
+C:\Users\Zverkan\Documents\OO2\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmViewTransactions.resources
+C:\Users\Zverkan\Documents\OO2\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.csproj.GenerateResource.cache
+C:\Users\Zverkan\Documents\OO2\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Zverkan\Documents\OO2\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.csproj.CopyComplete
+C:\Users\Zverkan\Documents\OO2\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.dll
+C:\Users\Zverkan\Documents\OO2\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.pdb
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.PresentationLayer\bin\Debug\FinAssist.PresentationLayer.dll
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.PresentationLayer\bin\Debug\FinAssist.PresentationLayer.pdb
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.PresentationLayer\bin\Debug\FinAssist.BaseLib.dll
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.PresentationLayer\bin\Debug\FinAssist.Controllers.dll
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.PresentationLayer\bin\Debug\FinAssist.Model.dll
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.PresentationLayer\bin\Debug\FinAssist.BaseLib.pdb
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.PresentationLayer\bin\Debug\FinAssist.Controllers.pdb
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.PresentationLayer\bin\Debug\FinAssist.Model.pdb
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.csprojAssemblyReference.cache
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmAddAccount.resources
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmBookExpenditure.resources
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmBookIncome.resources
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmBookTransfer.resources
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmMainWindow.resources
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmViewAccounts.resources
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.frmViewTransactions.resources
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.csproj.GenerateResource.cache
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.csproj.CopyComplete
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.dll
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.pdb
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.ViewBiciklistForm.resources
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.AddBiciklistForm.resources
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.ViewUtrkeForm.resources
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.EditBiciklistForm.resources
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.AddBiciklForm.resources
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.AddBiciklOprema.resources
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.AddUtrkaForm.resources
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.AddRezultatForm.resources
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.EditUtrkaForm.resources
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.UtrkaStatisticsView.resources
+C:\Users\Zverkan\Documents\oobjLab\OO2\FinAssist.PresentationLayer\obj\Debug\FinAssist.PresentationLayer.BiciklistStatisticsView.resources
